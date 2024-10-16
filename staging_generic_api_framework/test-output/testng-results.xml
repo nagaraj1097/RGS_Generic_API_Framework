@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-14T10:44:38 IST" name="Default suite" finished-at="2024-10-14T10:44:39 IST" duration-ms="130">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T10:44:38 IST" name="Default test" finished-at="2024-10-14T10:44:39 IST" duration-ms="130">
+      <class name="testpack.Init">
+        <test-method is-config="true" signature="variables()[pri:0, instance:testpack.Init@1c742ed4]" started-at="2024-10-14T10:44:38 IST" name="variables" finished-at="2024-10-14T10:44:38 IST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- variables -->
+        <test-method signature="intitNeg()[pri:0, instance:testpack.Init@1c742ed4]" started-at="2024-10-14T10:44:38 IST" name="intitNeg" finished-at="2024-10-14T10:44:39 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitNeg -->
+      </class> <!-- testpack.Init -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
